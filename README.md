@@ -1,13 +1,13 @@
 <!-- Colorful Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi,%20I'm%20Kenn-stack!&fontSize=40&fontAlignY=40&desc=Software%20Engineer%20%7C%20Medical%20Student%20%7C%20ML%20in%20Healthcare&descAlignY=60" alt="Kenn-stack colorful banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=header&text=Hi,%20I'm%20Kene!&fontSize=40&fontAlignY=40&desc=Software%20Engineer%20%7C%20Medical%20Student%20%7C%20ML%20in%20Healthcare&descAlignY=60" alt="Kenn-stack colorful banner"/>
 </p>
 
 ---
 
 ### 👋 About Me
 
-I'm **Kenn-stack**, a passionate **Software Engineer** and a current **medical student** training to be a doctor. I love exploring how **machine learning** can transform healthcare and improve patient outcomes.
+I'm **Kene**, a passionate **Software Engineer** and a current **medical student** training to be a doctor. I love exploring how **machine learning** can transform healthcare and improve patient outcomes.
 
 - 🩺 **Medical Student** — Bridging medicine and technology
 - 🐍 **Pythonista** — Python | Django | FastAPI
